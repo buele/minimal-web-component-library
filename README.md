@@ -57,7 +57,7 @@ Minimal web componens library (1.5 KB)
 
 ## demo 
 
-[link](https://run.plnkr.co/VD4pM7UHSpHrpSHP/)
+[link](https://run.plnkr.co/preview/cjjr9gfba0006335rueoq0wmd/)
 
 
 ## output
